@@ -1,0 +1,189 @@
+A - FOREST BIOME
+ 1. Elarion Forest
+ 2. Ashveil Forest
+ 3. Greenveil Basin
+ 4. Whisperroot Woods
+ 5. Verdant Hollow
+ 6. Lumira Grove
+
+B - MEADOW BIOME
+ 1. Goldenreach Plains
+ 2. Windrest Praire
+ 3. Athergrass Valley
+ 4. Dawnlight Expanse
+
+C - MOUNTAIN BIOME
+ 1. Frosfang Peaks
+ 2. Titanspine Mountains
+ 3. Obsidian Crown
+ 4. Skyrend Cliffs
+ 5. Hollowpeak Range
+
+D - DESERT BIOME
+ 1. Sunscar Desert
+ 2. Ashen Wastes
+ 3. Mirage Basin
+ 4. Sable Sands
+
+E - SNOWY BIOME
+ 1. Wintermourne
+ 2. Cryostep Tundra
+ 3. Palefrost Valley
+ 4. Whiteveil Expanse
+ 5. Frozen Echo Fields
+
+F - MAGICAL BIOME
+ 1. Astral Bloom
+ 2. Etherwild
+ 3. Calestine Grove
+ 4. Starfallen Vale
+ 5. Manaflow Basin
+
+G - CORRUPTED BIOME
+ 1. The Rotveil
+ 2. Blightroot Marsh
+ 3. Crimson Scar
+ 4. Corruption Hollow
+ 5. Voidblossom Fields
+ 6. Decayed Expanse
+
+H - DANGEROUS BIOME
+ 1. Infernum Depths
+ 2. The Shattered Cradle
+ 3. Wrathscar Canyon
+ 4. Catalysm Basin
+ 5. Eternal Ruins
+ 6. Hollow Obvilion
+ 7. Forsaken Divide
+
+I - OCEAN BIOME
+ 1. Azure Abyss
+ 2. Leviathan Trench
+ 3. Mooncurrent Sea
+ 4. Coralgrave Reef
+ 5. Drowned Sanctum
+ 6. Mistwake Coast
+
+J - NATURE CAVE BIOME
+ 1. Stoneveil Caverns
+ 2. Deepstone Hollow
+ 3. Ironroot Caves
+ 4. Hollowearth Depths
+ 5. Echoing Caverns
+ 6. Underdeep tunnels
+
+K - CRYSTAL CAVE BIOME
+ 1. Lumicrystal Grotto
+ 2. Shardveil Cavern
+ 3. Prism Hollow
+ 4. Azure Crystal Depths
+ 5. Gleamstone Caves
+ 6. Starshard Grotto
+ 7. Crystalline Abyss
+
+L - DARK CAVE BIOME
+ 1. Black Hollow
+ 2. Dreadveil Depths
+ 3. Mourning Chasm
+ 4. Silent Maw
+ 5. The Hollow Below
+ 6. Abyssfang Tunnels
+ 7. Graveecho Caverns
+
+M - CORRUPTED CAVE BIOME
+ 1. Rotmaw Depths
+ 2. Blightstone Cavern
+ 3. Crimson Hollow
+ 4. Corruptreach
+ 5. Veins of Decay
+ 6. Plagueburrow
+
+N - VOLCANIC CAVE BIOME
+ 1. Infernal Core
+ 2. Molten Abyss
+ 3. Emberdeep
+ 4. Hellscar Caverns
+ 5. Ashcore Depths
+ 6. Magmafang Hollow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
